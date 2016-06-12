@@ -60,6 +60,7 @@ namespace NavegOK
 
         private void textBox1_Enter(object sender, EventArgs e)
         {
+            Navigate(textBox1.Text);
             webBrowser1.GoSearch();
         }
         private void Navigate(String address)
@@ -80,5 +81,11 @@ namespace NavegOK
                 return;
             }
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+        
     }
 }
