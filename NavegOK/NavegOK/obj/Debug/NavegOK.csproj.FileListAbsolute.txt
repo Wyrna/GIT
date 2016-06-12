@@ -1,0 +1,9 @@
+c:\users\wyrna\documents\visual studio 2015\Projects\NavegOK\NavegOK\bin\Debug\NavegOK.exe.config
+c:\users\wyrna\documents\visual studio 2015\Projects\NavegOK\NavegOK\bin\Debug\NavegOK.exe
+c:\users\wyrna\documents\visual studio 2015\Projects\NavegOK\NavegOK\bin\Debug\NavegOK.pdb
+c:\users\wyrna\documents\visual studio 2015\Projects\NavegOK\NavegOK\obj\Debug\NavegOK.csprojResolveAssemblyReference.cache
+c:\users\wyrna\documents\visual studio 2015\Projects\NavegOK\NavegOK\obj\Debug\NavegOK.Form1.resources
+c:\users\wyrna\documents\visual studio 2015\Projects\NavegOK\NavegOK\obj\Debug\NavegOK.Properties.Resources.resources
+c:\users\wyrna\documents\visual studio 2015\Projects\NavegOK\NavegOK\obj\Debug\NavegOK.csproj.GenerateResource.Cache
+c:\users\wyrna\documents\visual studio 2015\Projects\NavegOK\NavegOK\obj\Debug\NavegOK.exe
+c:\users\wyrna\documents\visual studio 2015\Projects\NavegOK\NavegOK\obj\Debug\NavegOK.pdb
